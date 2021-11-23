@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Scala\HelloWorld\target\scala-2.12\helloworld_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\HelloWorld\target\scala-2.12\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\HelloWorld\target\scala-2.12\classes\example\HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\HelloWorld\target\scala-2.12\classes\example\HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\HelloWorld\target\scala-2.12\classes\example\HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
